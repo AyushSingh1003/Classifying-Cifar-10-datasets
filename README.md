@@ -1,5 +1,7 @@
 Today, I will explain the code for building and evaluating a Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset. 
 
+Download the dataset from here : https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+
 This code includes loading the dataset, building the model, training it, testing it with a single image, and analyzing results using a confusion matrix."
 
 Step 1: Importing Libraries
